@@ -1,0 +1,1691 @@
+Climate and Economic Development
+Climates Past and Climate Change Future
+William D. Nordbaus
+Economists and development practitioners have a long agenda of concerns,
+ranging from obsolete capital to inadequate education. Many fear that we are
+adding to this list by damaging the natural environment through a multitude of
+interventions, such as the release of greenhouse gases. This paper places the
+issue of climate change in the context of broader discussions on economic devel-
+opment. It reviews alternative approaches to the role of clmate, contrasting an
+older theory of climatic determinism With modern adaptive approaches. It then
+briefly reviews concerns about greenhouse warming and surveys current
+research on the impact of global warming on economic activity. The paper
+emphasizes the critical need for effective policies, perhaps using carbon taxes, if
+we are to attain global environmental objectives without placing excessive bur-
+dens on economic growth.
+P    ractitioners of economic development have a long agenda of concerns,
+including the inadequacy of public and private capital, poor training and
+education of workers, and counterproductive attitudes, ideologies, and
+practices. It is feared that we are adding another list of potential problems to this
+already heavy burden by damaging the natural environment through a multitude
+of interventions, such as injecting greenhouse gases or ozone-depleting chemi-
+cals into the atmosphere, engineering massive changes in land use, depleting
+species in their natural habitats (even as transgenic varieties are created in the
+laboratory), and accumulating nuclear weapons that could destroy human civili-
+zation. As natural or social scientists we need to understand the human sources
+William D. Nordhaus is A. Whimey Griswold Professor of Economics and a staff member of the Cowles
+Foundation, Yale University.
+Proceedings oft/e World Bank Annual Conference on Development Economics a993
+  1994 The International Bank for Reconstruction and Development / THE woRI BAwK  355
+
+
+
+g p ;  s"$ A 8;                     *   2~~~~~~~~~~~~~~~~ "  *  't'..'-  ; s . *4. i a *;
+of these global changes, their potential for damaging environmental and eco-
+nomic systems, and the most efficient ways of alleviating their undesirable con-
+sequences. Just as once the interests of future generations dictated the conserva-
+tive management of grazing and water resources, so must we today learn to use
+and protect our geophysical and biological resources. This task of understand-
+ing and controlling interventions can be called "managing the global commons."
+This paper examines interventions for mitigating damage to the environment
+from greenhouse warming-a rise in temperature caused by emissions of green-
+house gases. Many scientific bodies, along with a growing chorus of environ-
+mental groups and governments, are calling for severe curbs on these emissions
+on the grounds that the interests of future generations are at stake. The
+response, in the form of a treaty to monitor national trends and policies on
+climate change, emerged from the 1992 "Earth Summit?'-the United Nations
+Conference on Environment and Development.
+Natural scientists have pondered the question of greenhouse warming for a
+century. Only recendy have economists begun to study the effects of climate
+change, the costs of slowing these changes, and alternative approaches for
+implementing policies. Most of the research has focused on the United States
+and Europe. Few attempts have been made to explore global warming in the
+developing world, even though many scientists fear that the most adverse effects
+are likely to occur in poorer countries.
+This paper places the issue of clmate change in the context of the debate on
+economic development. Given the paucity of data on which to base an economic
+analysis, the approach must be impressionistic at this stage.
+The Ghosts of Climates Past
+From the age of Aristotle until early in this century, most philosophers and
+scientists who reflected on the progress of nations assumed that climate was
+among the chief determinants of the differences among nations. This view was
+summarized in 1915 by the eminent Yale geographer Ellsworth Huntington,
+who wrote, "The climate of many countries seems to be one of the great reasons
+why idleness, dishonesty, immorality, stupidity, and weakness of will prevail.?
+About the middle of this century, climate virtually disappeared from the
+economic development literature, eclipsed by such "modern"' factors as invest-
+ment, trade policies, and education. In the past few years, however, with the
+threat of global warming, climate has reemerged as the centerpiece of interna-
+tional environmental issues. Whereas Huntington reported on the influence on
+health and economic activity of "temperature, huxiiidity, wind movements,
+storminess, variability, and sunlight," today geographers and environmentalists
+worry about the effects of droughts, a rise in the sea level, species depletion, and
+loss of ecosystem diversity.
+Huntington's approach is illustrated by figure 1, which looks at the effect of
+outside temperature on physical and mental performance. The top eight curves
+356                                        Clirnate and Economic Development
+
+
+
+- ~ ~ ~  ~ ~ ~           . 0
+Figure 1. Human Activity and Mean Temperature
+150 200 250 300 350 400 450 500 550 60  650 700 75  80 
+100%
+98                   F00o'    103
+A196 ilsinOn   onnciuo Fc,y 11-3
+94
+90
+950%
++2
+0-100                    ~~~~~~+1
+0
+1-2
+- A. 300 Men in Two Connecticut Factories, 1910-13.
+-B.196 Girls in One Connecticut Factory, 1911-13.
+C. One Man CP) in Denmark, June-December, 1906.
+-- - -D. One Man (L) in Denmark, June-December, 1906.
+E 380 Cigar-makers in Factory B at Tampa, Fla., 1913.
+-.F. 400 Cigar-makers in Factory A at Tampa, Fla., 1913.
+-G C. 3 Children Typewriting in New York 1905-6.
+H. 380 Cigar-makers in Factory B at Tampa, Fla., 1912.
+-    .L 1560 Students in Mathematics and English at West Point and Annapolis, 1909-1913.
+Note All the curves except G and I are drawn on the same scale. The maximum in every
+case is reckoned as 100.
+Source Reproduced from Huntington 1915, p. 124.
+show variations in wages, where wages reflect workers' productivity. The bot-
+tom acrve shows perfonnance in mathematics and English by students at the
+U.S. military academies. From these data Huntington concluded that maximum
+productivity for physical effort occurs at a-temperature between 590F and 650F,
+while "people do their best mental work when the [outside] temperature ranges
+from freezing to about 5O" (p. 128).
+Nordhaus                                                                   357
+
+
+
+Many other findings spring from Huntington's imaginative interpretation of
+his and others' data. One entertaining hypothesis concerned the role of sunlight.
+In a tract entitled The Effect of Tropical Light on White Men, a U.S. Army
+surgeon, C. W. Woodruff, speculated that the backwardness of tropical coun-
+tries was a result of excessive sunlight. Woodruff's theory held that sunlight at
+the blue end of the spectrum would fall on the human body and overstimulate
+cell growth-as in an overripe fruit. Huntington examined data on factory
+workers and found no or only slight effects from light, but he did uncover other
+patterns.
+Taking the year as a whole, uniformity of temperature causes low
+energy; a slight rise is beneficial, but a further rise is of no particular
+value; the beginning of a fall of temperature is harnful, but when the
+fall becomes a little larger it is much more stimulating than a rise; when
+it becomes extreme, however, its beneficial qualities begin to decline.
+(Huntington 1915)
+Having reviewed these results, Huntington turned to his central thesis, the
+climatic hypothesis of civilization. Three important conclusions emerge here and
+in his other works. The first hypothesis links climate change with the rise of
+important civilizations, using Greece as a principal example. I quote the entire
+summary to give a flavor of the reasoning.
+To sum up the whole hypothesis of the relation of climate to civiliza-
+dion, here are the factors as I see them at present. Most parts of the
+world are so well populated that any adverse economic change tends to
+cause distress, disease, and a high death rate; migration ensues among
+the more energetic and adventurous people. Perhaps the commonest
+causes of economic distress are variations in weather or climate which
+lead to bad crops or to a dearth of grass and water for animals. Such
+economic distress almost inevitably leads to political disturbances and
+this again is a potent cause of migrations. The people who migrate
+perforce expose themselves to hardships and their numbers diminish
+until only a selected group of unusually high quality remains. Such
+people, either as warlike invaders or in small bands, enter a new coun-
+try. They may find it well populated and merely impose themselves as a
+new ruling dass, as seems to have happened several times in India, or
+they may find it depleted of people as in Attica. When the period of
+climatic stress is ended and the climate improves, the dominant new-
+comers not only possess an unusually strong inheritance, but are stimu-
+lated by unusually good economic conditions and by improved condi-
+tions of health and energy. Moreover since the population is apt to
+remain below the saturation point so long as the climate improves, the
+standards of living tend to rise and to become relatively high. Thus
+many people are freed from the mere necessity of maldng a living and
+have the opportnity to devote themselves to the development of new
+358                                         Cliaes and Economic Devopment
+
+
+
+ideas in literature, art, science, politics, and other lines of progress.
+(Huntington 1915)
+We see here the long shadow of Malthus interacting with crude Darwinism and
+Huntington's dynamic-climate theory.
+The second hypothesis makes the case for a kind of climatic fatalism. Hunt-
+ington argues that people in the American South have "less energy, less vitality,
+less education, and fewer men who rise to eminence than in the North, not
+because southerners are in any way innately inferior to northerners, but appar-
+ently because of the adverse climate." About other countries he asks: "What
+shall we say of Russia, weighted down with benumbing cold and comparative
+monotony or with changes so extreme that they are harmful?" and "What of
+China under a much heavier handicap of monotony; or of tropical lands bur-
+dened most heavily of all?"
+The third feature lifts his work out of the ordinary run of climatic (or other)
+mechanistic theories and provides a link to modem economic views of climate
+change. How is it that Hong Kong or Japan-far down Huntington's scale of
+climatic potential-could break free of their climatic chains and prosper?
+Huntington observed that "in the past great inventions have helped chiefly in
+enabling man to overcome low temperature; in the future, perhaps, they will
+help him in equal measure to overoDme high temperature, dryness, and monot-
+ony." He speculates, with uncanny foresight for a book written well before
+Freon was formulated, that technology has the potential to improve the situa-
+don in tropical countries.
+In the warmer parts of the earth [alleviating hot temperatures requires]
+cooling the interiors of houses. Today this is done on a small scale by
+shutting out the sun and sprinkling water to cause evaporation. There
+is no reason why the same result should not be produced'on a large
+scale. We already know how to cool houses as well as to heat them. We
+do it in ice-plants. A thousand years ago men would have laughed at
+the idea that hundreds of rooms would some day be heated by a single
+fire, yet we see it in every office building or hotel. In equatorial regions
+there is as much reason for equipping the houses with coolers as there
+is in temperate regions for equipping them with heaters. (Huntington
+1915)
+He concludes loftily that "if we can conquer climate, the whole world will
+become stronger and nobler."
+Huntington's work, along with a small library produced by other scholars, is
+a healthy reminder of how our fundamental models of human activity are pris-
+oners of conscious or unconscious models of social systems. In Huntington's
+case the influence of Malithus and Darwin constrained his theory of climate and
+civilization. It is surprising that he did not ask whether the effects of dimate
+were negligible in the light of the economic pace of human invention he
+described. The difference in performance between the "optimal" 60 F tempera-
+Nordbaus                                                       359
+
+
+
+ture for New York City and an 80 F average temperature in a tropical region
+hardly exceeds 2 percent. Yet real wages and productivity in his day were
+routinely growing at that rate every year. The real puzzle for a climatic deter-
+minist like Huntington was why productivity in the tropics was so much lower
+than was predicted by the wage-temperature curves. Had Huntington asked that
+question, he might have become a development economistl
+The Impact of Climates Present
+Modem views of economic development give short shrift to dimate as the basis
+for differences in the wealth of nations.' A review of a handful of textbooks on
+economic development shows that the discussion of climate is confined to only a
+few lines.2 The modem view of economic growth presents development as a
+vehicle driven by the four wheels of capital, labor, resources, and technology,
+and it is a stretch of interpretation to equate resources with climate. The recent
+wave of studies of international differences in productivity has never included
+climate as a determiining variable. Modem trade theorists have had difficulty
+finding empirical evidence to confirm Heckscher-Ohlin trade theories that inter-
+national trade is based on a region's resource base (which would include climate
+along with other factor endowments).
+How can we rationalize modem attitudes toward climate? One possible
+explanation is that there seems little point in studying the influence of so exog-
+enous a variable. A more serious possibility is that societies can adapt to what-
+ever climate is dealt by nature. In this section I explore this view and then
+examine some economic and geophysical data to determine whether the evi-
+dence supports the earlier climatic determinism or an alternative, which I will
+call the adaptive theory of climatic impact.
+The adaptive theory holds that in the very long run humans beings are essen-
+tially nomadic toolmakers. They can usually invent products or processes to
+offset the disadvantages of climate or can by trade turn appzrent disadvantage to
+economic profit. At the extremes of cold, Sherpas make a relatively good living
+leading people up Mt. Everest, while deserts, free of ice and snow, are increas-
+ingly attractive as retirement sites. And a region that is so barren as to attract no
+conventional economic activity will probably become attractive as a wildemess
+retreat.
+In the short run, of course, life can be full of surprises and dreadful climatic
+shocks. Homo adaptus will still be rendered homeless if hurricanes destroy
+flimsy structures, if storm surges break across land that is not meant for risk-free
+habitation, if farmers cultivate drought-prone land, or if civil wars destroy the
+land or dampen entrepreneurial impulses. To say that human beings are adap-
+tive says nothing about whether the adapted standards of living are high or low,
+whether nations are at war or peace, whether the climatic shock is the straw that
+breaks the camel's back, or whether policies should be designed to prevent the
+laying of that last straw (through large investments to slow climate change) or to
+360                                         C&mate and Econouic Development
+
+
+
+lighten the load from other burdens so that occasional climate shocks are nui-
+sances rather than catastrophes.
+Figure 2 illustrates the adaptive view of climatic effects. The horizontal axis
+represents a synoptic climate variable such as average temperature; the
+region's productivity is on the vertical axis. The horizontal line LR represents
+the long-run productivity of a region and suggests that productivity is indepen-
+dent of climate. In the short run, however, productivity will be maximized at
+the "design climate." I therefore represent SRO as the productivity curve that
+corresponds to capital, management, infrastructure, and localized technolo-
+gies that are designed for climate To. If climate were to change to T1, cool-
+weather crops would wilt, ski areas would fail, and other signs of an ill-
+adapted technology would emerge, with the equilibrium moving from A to B
+and productivity falling from P to P1. Over time, however, the economy
+would adapt, as tropical fruits replaced temperate grains and campers replaced
+skiers. Once all the adaptations'had taken place, productivity would rise to
+point C, with a productivity equal to the initial level and with a new short-run
+productivity curve of SR,.
+Figure 2 makes two other important points about adaptive systems. Not
+surprisingly, the first is that large shocks have a stronger short-term inpact than
+do small shocks. The second, quite surprising, implication is that, to a first
+order of approxination, small shocks have no impact. To be more precise, a
+small dcimate shock in the short run, before any adaptation has taken place, has
+the same impact as a long-run shock, or a shock that occurs after adaptation has
+taken place. In terms of figure'2, a small shock will move along the short-run
+productivity curve, which is tangent to the long-run productivity curve at the
+initial point.
+Many objections can be raised to the adaptive view in figure 2. One valid
+objection is simply that some aspects of social or natural systems either cannot
+adapt or adapt so slowly that significant damage cannot be avoided. Forest
+ecosystems, coral reefs, cultural treasures such as Venice, wildlife refuges such
+as Yellowstone-for these, the possibilities of adaptation seem dubious, and the
+short-run curve might well last for two centuries rather than two years. A second
+class of objection is that the long-run curve would not be horizontal but would
+show marked losses as climate changes. Such a case might arise if climate change
+involved global glaciation, if there were a shift in ocean currents that changed
+the climate of the North Adantic communities into that of Alaska, or if midcon-
+tinental warming and drying destroyed the globe's grain belts.
+Using modem income concepts, I examine the relationship between certain
+geophysical variables and different economic measures. Two elementary vari-
+ables, latitude and average temperature, represent climate. Clearly, these vari-
+ables are too aggregated for large countries such as the United States, which
+spans 52 degrees of latitude from Hawaii to Barrow, Alaska. But for smaller
+countries such as Belgium or Gabon, the climatic variables do not mask great
+diversity. Figures 3 and 4 show the relationship between the geophysical vari-'
+NordLesa                                                          361
+
+
+
+Figure 2. Prducttvity and Climate in an Adaptiv E.'conomy
+Productivity
+Po                                A            c              U
+pi       Je~             *               f 
+1::  *n     ,                                    N 
+SRo
+Cimate variable (tempeture)
+Note. LR, longupn productivity; SR, short-un produtivity.
+ables and per capita incomes. Figure 3 indicates that the zone from 10  south
+ltitude to 200 north latitude is an economic desert in which no country has
+achieved high levels of income per capita. In the latitudes toward the polcs from
+350 north or 25 1 souch. however, there is virtually no relationship between
+latitude and economic performance. Figure 4 shows the relationship between
+inoome per capita and temperature for a smaller sample of countries. Iln most of
+the range, from a mean temperature of 40 F to about 65OF, there is no relation-
+ship between mean temperature and income per capita. Above an average tem-
+perature of 65S F only a handful of countries show a relationship, but no country
+in this sample with a mean temperature of more than 651F has risen above the
+$2,000 per capita income level.
+The measure of income per capita is somewhat defective in that over a scale of
+centuries human migrations will tend to equaLize incomes in differcnt regions
+(although the tendency is clearly quite weak in light of current findings on the
+lack of convergence among countries). In 1-980 Alaska had the highest income
+per capita in the United States, and we rmfigt therefore mistakenly conclude that
+Alaska has a vey fertile climate. A better measure of the economic clemency of a
+climnatc would probably be the "Ricardian rene" that land in any area yields.
+362                                          Climatc and Economic Daemlopment
+
+
+
+FIgure 3. atiilude/ and Income Per Capila
+Annual Income per capita (dollurs; log scule)
+100,000
+_                                             ~~~~~~~~o
+0~~
+10,000        0                                     0%tz)
+Q           0
+0000
+-4i}    -20   0          20          400     60             8
+o,0 conre vih18GDof$0 bilo to $10  afl
+eCure 18GPolst $ 0 b o Q
+0   0
+0                   0     ~~~~0 C) 0
+a~~~~ 
+1001
+-400    -200         00         20?         4006?                  8(00
+Latitude
+o Countries with 1987 GDP of more than $100 billion
+o Countries with 1987 GDP of $20 billion to $100 billion
+a Countries with 1987 GDP of less than $20 bilion
+Note A sample of seventy-seven countries was used. Latitude is that of the geogriiphic
+center of the country. Income is based on 1987 GDP per capita, using the exchange rates
+corrected for purchasing power parity that were developed by the International Income
+Comparison Project. These adjusted data reflect more realisdc estimates of income per
+capita in the formerly centrally planned economies.
+Source Income and area data from World Bank 1992, adjusted by author.
+Failing that, we could examine income measured as a country's GwP per unit
+area.
+Figures 5 and 6 show the results of this calculation. Figure S shows the same
+latitudinal result as figure 3-an economic desert in the lowest latitudes. But the
+interesting new feature here is that the economic return per unit area peaks in the
+middle latitudes-say between 400 and 50  north latitude and about 300 south
+latitude-and then declines again at the highest latitudes. This reflects the sensi-
+ble result that the high incomes in the highest latitudes (Alaska, northern Can-
+ada, and Siberia) go to only a few people.
+In figure 6 there seems to be more of a standoff between the variables. income
+per unit area is highest in temperature ranges that are more moderate, and a
+modest hump-shaped relationship is evident. But no dear threshold appears in
+these data.
+Nordbaus                                                                  363
+
+
+
+FigureC 4. Temperattre ana incomne Pe Capfia
+Annual Inconne per capita (dollars; log scale)
+100,000
+10,000    co       e            CC)
+00
+lsOCO )       o      o 0       CO 0
+too ~  o                 %oo,                 . 
+0~~~~
+0 0
+a  ~0               0
+100II 
+400          500          60           700          800           90
+Mean temperature (degrees Fi)
+o Countries with 1987 GDP of more than $100 billion
+o Countries with 1987 GDP of $20 billion to $100 billion
+o Countries with 1987 GDP of less than $20 billion
+Note: A sample of forty countries was used. Temperature is the average of the July and
+January maxima and minima. For income per capita, see note to figure 3.
+Source Income and area data from World Bank 1992, adjusted by author.
+A final word should be added to put these geophysical variables in a larger
+context. Climate may have an effect on income, but the effect is swamped by
+other variables. Looking at figure 5, we see that incomes per square kilometer
+vary from a low of about $31 in China to a high of about $36,000 in Hong
+Kong, and from $37 in Indonesia to $6,200 in Japan. Latitude explains less than
+1 percent of the variance in income per capita or per area. We should surely look
+to factors other than climate to explain most differences in the wealth or poverty
+of nations.
+The Threat of Climates Future
+Climate has reemerged on center stage in the past few years as scientists have
+become increasingly concerned about the greenhouse effect-the process by
+which radiative "greenhouse" gases such as carbon dioxide (CO2) selectively
+absorb radiation at different points of the spectrum and thereby warm the
+surface of the earth. The major greenhouse gases (GHG) are carbon dioxide
+(emitted primarily from the combustion of fossil fuels), methane, and chloro-
+fluorocarbons (crcs). GHGs are transparent to incoming solar radiation but
+absorb significant amounts of outgoing radiation. There is no debate about the
+364                                             Climate and Economic Development
+
+
+
+Figure 5. Ialihide and Incfnwe Par Uni;tAna
+Incone per square kilometer (dollrn; log suclc)
+100,000
+10.000-
+0 o
+0 0  0
+1,000 _
+0                                 CQ
+0 o  o  CS   00
+100      00            0            0O            *     0
+0              00 o
+_~~                            ~ ~~ e  e O    ae0
+o 0                         00%
+a                                     0
+10~~~~~~~~~~~~~~
+0 
+400        -200        00         200        400         600
+Latitude
+0 Countries wIthl 1987 GDI' of more than $100 billion
+o countries with 1987 GDI) of $20 billion to $100 billion
+a Countries with 1987 GDP of less than $20 billion
+Note A sample of seventy-seven countries was used. For latitude and Income, see the note
+to flgure 3.
+Sourcea Income and area data from World Bank 1992, adjusted by author.
+positive importance of the greenhouse effect, without which the earth's climate
+would resemble the moon's.3 But the trend toward greenhouse warming is a
+pressing concern.
+The Greenhouse Effect
+Concern about the greenhouse effect arises because human activities are cur-
+rently raising atmospheric concentrations of greenhouse gases. Using the stan-
+dard metric measure of the "COz equivalenet of GHGS, we find that atmospheric
+concentrations have risen by more than half the preindustrial level of CO2.
+Although the historical record is well established, there is great uncertainty
+about the potential for future climate change. On the basis of climate models,
+scientists project that a doubling of the atmospheric concentrations of CO will
+in equilibrium lead to a 10 to 5 'C warming of the earth's surface; other pro-
+Nordbaus                                                                365
+
+
+
+111gure 6. 7iptibnerwwu4w ruan  hsouna Par f.mi A1 Aw
+Inclme per nqutre lillunmvier Idallurn; log sctilo)
+100,000
+10,000                       0
+_~~~~~~ O
+1,000                         0
+o                      0                       0
+100                o         80    c                    00 
+i   88   Co   Gb 0   
+10
+I1 -                          I             II
+400           50o           600           70D           80'           900
+Mean lemnperature (degrees F)
+0 Countries with 1987 GDi' of more than $100 billion
+o Countries wiLh 1987 CDP of $20 billion to $100 billion
+* Countries with 1987 GDI' of less than $20 billion
+Note: A sample of forty countries was used. For temperature, sce the note to figure 4. F:or
+income per capita, see the note to figure 3.
+Source: Income and area data from World Bank 1992, adjusted by author.
+jected effects include an increase in precipitation and evaporation, a small rise in
+sea level over the next century, and the potential for hotter and drier weather in
+such midcontinental regions as the U.S. Midwest.
+To translate these equilibrium results into a projection of future climate
+change requires a scenario for predicting emissions and concentrations. Using
+rudimentary economic modeling, the Intergovernmental Panel on Climate
+Change (ipcc), an international panel of distinguished scientists, projected that
+"business as usuar would produce a 3  to 6 C warming by 2100. Economic
+models tend to show lower emissions and temperature trends than the extrapo-
+lative approaches often used. Virtually all the projections are worrisome, how-
+ever, because climate appears to be heading out of the historical range of tem-
+peratures witnessed during the entire span of human civilization.
+Climate models resemble large macroeconomic models in their ability to
+answer any question that modelers care to ask; it is not clear that their reliability
+for forecasting climate change is any better than that of their economic counter-
+parts. Climate models are currently unable to replicate actual climates reliably,
+366                                                Climate and Economic Deetopment
+
+
+
+and many climate modelers do not expect to be able to forecast regional climates
+accurately in the foreseeable future. Some scientists believe that there may be
+"regime changes" in which the dimate flips from one locally stable system to
+another, say, because of changes in ocean circulation. Elaborating bigger and
+better models will provide full employment for climatologists well into the next
+century.
+What are the likely effects of projected changes in Jimate? It is important to
+recognize that the critical variable in most analyses-average global
+temperature-is relatively unimportant. Variables that accompany or are the
+result of temperature changes-precipitation, water levels, extremes of droughts
+or freezes, and thresholds such as the freezing point or the level of water con-
+tained by dikes and levees-are what will drive the socioeconomic conse-
+quences. Mean temperature is chosen because it is a useful index of climate
+change that is highly correlated with or determines the more important
+variables.
+Effects of Changes in Climate in High-Income Regions
+What do empirical studies say about the economic impact of climate change?
+Because such studies are in their infancy and research on low-income regions is
+virtually nonexistent, I have concentrated in this paper on high-income regions.
+Climate change is likely to have different effects on different sectors. (A 1989
+study by the U.S. Environmental Protection Agency emphasizes the potential
+costs of climate change; a more balanced approach is contained in National
+Academy of Sciences 1992.) In general, those sectors that are heavily dependent
+on naturally occurring rainfall, runoff, or temperatures will be most sensitive to
+dimate change. In reality, however, most economic activity in high-income
+countries has litde direct interaction with climate. Cardiovascular surgery and
+miicroprocessor fabrication, for example, are unlikely to be affected by climate
+change, and the same is true of mining, manufacturing, communications, and
+most services-sectors that comprise 80 to 85 percent of gross domestc product
+(GDP) in high-income countries.
+Table 1 shows the results of three studies by Nordhaus (1991), Cline (1992),
+and Fankhauser (1992) that estimate the effect on the United States of a doubling
+of CO2, estimated to lead to a temperature rise of 2.50 to 30C. Cline has per-
+formed the most detailed economic analysis, but his results are often fragile and
+may overestimate climatc impacts. For example, he assumes that storms will
+become more severe, whereas br th the u'cc and the National Academy of Sciences
+studies conclude that global warming has an ambiguous effect on storm mtensity.
+On another point, species loss, Cline selects as the . isis for valuation a very cosdy
+environmental decision, that of the spotted owl. Finally, Cline's estimate for
+agiculture is much higher than that in recent studies by Reilly and Hohmann
+(1993) and by Mendelsohn, Nordhaus, and Shaw (1993). Cline's estmates (1.1
+percent of GNP for a 2. 5 C increase in warming) are marginaUy above those in the
+Nordhaus                                                        367
+
+
+
+Nordhaus survey (1 percent of GNP for a 30C increase in warming). The results of
+the Fankhauser study, which extends the analysis to the countries of the Organiza-
+tion for Economic Cooperation and Development (OECD) and to the world, are
+close to the findings in other studies: a 3 C rise in temperature yields a 1.3 percent
+of GNP impact for the United States and a 1.S percent global impact.
+Two other approaches are shown in table 1. First rhe study by Reilly and
+Hohmann (1993) embeds the crop-yield models used to develop the iTmpact
+estimates for agriculture in a model of international trade. The authors find that
+trade tends to reduce the impacts by one to two orders of magnitude hs supply
+and demand reactions buffer production shocks. The estimated impact of a
+substantial (30 percent) yield shock, buffered by the adaptive response in mar-
+kets, produces a negligible impact on U.S. and global incomes.4 This careful
+study is a good example of the tendency to exaggerate losses while ignoring
+gains and adaptation.
+A second study (Nordhaus forthcoming), more qualitative in nature, reports
+the results of a survey of experts on the economic impacts of climate change. For
+a 3 C warming in 2090, the "trimmed mean" of the responses estimates dam-
+ages of 2.9 percent of world output; the median is 1.8 percent of world output.
+Effects of Cbanges in Climate in Low-Income Regions.
+As noted earlier, studies on greenhouse warming outside Europe and North
+America are fragmentary, and it is not possible to come to any general conclu-
+sions at this time. In the survey mentioned above, respondents were asked to
+estinate the impact on the top and bottom quintiles of world income distribu-
+don. In general, all the respondents believed that the lowest quintile would be
+more seriously affected than the top quintile. The estimated mean ratio of the
+bottoni quintile to the top quintile ranged from 1.75 to 10.0; that is, the eco-
+nomic damage to the bottom quintile from a 30C warming would be between
+1.75 and 10 times the damage to the top quintile.
+A review of the sparse literature on climate change in developing countries
+gives some flavor of the results. Liverman and O'Brien (1992), who use projec-
+tions from five climate models to estimate the impact of global warming on
+Mexico, condude that "soil moisture and water availability may decrease over
+much of Mexico." Although this conclusion is consistent with the quantitative
+findings, it is not actually a result of the model.
+A second study (World Bank 1992), investigating a global-warming scenario
+for China in 2050, concludes that the prevalence of triple cropping will rise and
+notes that the diversification brought about by increased multiple cropping
+would appear to be favorable. The effects on precipitation and runoff pattens,
+however, may offset this benefit to agriculture. Again, explicit economic
+imnpacts were not assessed.
+The results of Reilly and Hohmann (1993) are surprising. Assuming some
+adaptation and CO2 fertilization, the economic effects on poorer countries (less
+368                                        Climate and Economic Development
+
+
+
+Table 1. Estimates of the Impact of Global Wanning
+(billions of 1988 dollars)
+United States                   Global
+Sector                 Nordbaus   Cline   Fankhauser   Other   Fankhauser   Other
+Heavily affected sectors
+Agriculture               1     15.2       7.4       1.2       39.1      12.3
+Coastal areas          10.7      2.5       2.3
+Energy                  0.5      9.0       0.0
+Other sectors
+Wetland and species
+loss                  -        7.1       14.8
+Health and amenities    -        8.4      30.3
+Other                   -       11.2      12.1
+Total                  38.1
+Total                    50.3     53.4      66.9
+Total as percentage of
+output                  1.0      1.1       1.3                  1.5       2.83
+Note: Blanks denote not available.
+a. From the author's survey of experts.
+Sources: Nordhaus 1991; dine 1992; Fankhauser 1992; for agricultue under Otwr," Reflly and Hohman n
+1993.
+than $500 per capita annual income) range from $0.2 billion to $15 billion a
+year. (Baseline gross output in these regions is about $1 trillion.)
+Three general factors should be weighed in evaluating greenhouse warming in
+developing countries. First, these countries tend to devote a larger fraction of
+their economies to agriculture, especially rainfed agriculture, and thus are more
+subject to the vagaries of dimate change. Economies classified by the World
+Bank as "low-income" reported that 31 percent of GDP was produced in the
+agricultural sector in 1987; these countries have a combined total population of
+2.8 billion.There is no strong presumption that the net impact of dimate change
+will be negative everywhere, but the dependence on agriculture implies a larger
+economic exposure to climate change.
+Second, the ferdlizing effect of atmospheric CO2 is a potentially strong mit-
+igating factor for agricultural nations. A natural fertilizer, CO2 has been used in
+greenhouses to stimulate plant growth and is particularly important for forest
+trees, rice, wheat, potatoes, and beans. Moreover, it appears to be particularly
+important in areas where water is a limiting factor-a major concern because
+warming may result in reduced soil moisture. The extent and quantitative
+importance of CO2 as a fertilization agent are controversial, but the balance of
+the evidence is positive.
+A third issue, for which there seems to be little mitigating offset, is the poten-
+tial for a rise in sea level. Scientific evidence suggests a potential rise of some-
+where between negligible and half a meter in the next century (apart from any
+geologically induced rise or fall). This would create an environmental catastro-
+Nordhaus                                                                   369
+
+
+
+phe; coastal regions tend to be heavily populated and highly productive and are
+home to a significant fraction of the world's capital infrastructure. Given the
+slow pace of the advance of the sea level, however, intelligent planning for
+defense or retreat could reduce the costs significantly.
+This discussion emphasizes above all the tenuousness of our understanding of
+the relationships not only between economic development and climates present
+but also between econonic prospects and climates future. If the mainstream
+scientific view proves correct, substantial global warming is inevitable over the
+next century even if stringent control measures are taken; the only question is
+whether the extent of global temperature rise will be modest (say in the 1  to
+20C range over a century) or large (more than 3 C over a century). Pasteur
+observed that chance favors the prepared mind, and in this risky area much
+remains to be prepared.
+Balancing Costs and Benefits of Emissions Controls
+The greenhouse effect is the granddaddy of public goods problems-emissions
+will affect climate for centuries to come. Because of the climate externality,
+individuals will not produce the efficient quantity of greenhouse gases. An
+important goal of economic research is to examine policies that will find the
+right balance between the costs of actions to slow cliTnate change and the bene-
+fits of reducing future damage from such changes.
+The benefits of reducing emissions are realized when lower emissions reduce
+future climate-induced damages. To translate this into a marginal benefit func-
+tion, we trace the emissions through GHG concentrations to economic impacts and
+then take the present value of the impact of an emission of an additioual unit.
+The marginal cost of emissions reduction portrays the costs that the economy
+undertakes to reduce a unit of GHG emissions (or the equivalent in other policies
+that would slow greenhouse warming). A wide variety of approaches are avail-
+able to slow dimate change. Most policy discussion has focused on reducing
+CO2 emissions by reducing the consumption of fossil fuels through energy con-
+servation, nonfossil energy sources (some would even contemplate nuclear
+power), and other measures. Such policies could be implemented through car-
+bon taxes, although some observers prefer regulations such as tradable emis-
+sions permits. Other approaches include reforestation to remove CO2 from the
+atmosphere and more stringent controls on CFcs. Another option definitely not
+in the environmentally correct package would be to offset greenhouse warming
+through climatic engineering, primarily through measures to change the albedo
+(reflectivity) of the earth.
+From an economic point of view, cost-beneficial policies are ones in which the
+marginal costs are balanced with the marinal benefits of emissions reductions.
+The pure market solution is one with no emissions reductions; the marginal
+benefits are far above the zero marginal costs. Whatever the approach, econo-
+mists emphasize the importance of cost-effectiveness-that is, structuring poli-
+370                                         Cimate and Economic Development
+
+
+
+cies to get the maximum reduction in harmful climatic change for a given level of
+expenditure. Cost-effectiveness requires that marginal abatement costs be equal-
+ized for every process of production and consumption and in every region; the
+stronger cost-benefit test requires that these costs equal the marginal benefits
+from slowing climate change.
+Sketching the optimal policy demands little more than pencil, paper, and a
+rudimentary understanding of intermediate economics. To move from theory to
+useful empirical models, however, requires the development of a wide variety of
+empirical economic and geophysical models. Work has progressed to the point
+where economics and natural science can be integrated to estimate optimal
+control strategies.
+Nordhaus (1991) contains a simple cost-benefit analysis for determining the
+optimal steady-state control of CO2 and other greenhouse gases on the basis of a
+comparative-statics framework. This study came to a middle-of-the-road con-
+clusion that the threat of greenhouse warming was sufficient to justify low-cost
+steps to slow the pace of climate change. A more complete elaboration uses what
+I call the DICE model, shorthand for a dynamic integrated model of climate and
+the economy (see Nordhaus 1993; complete documentation and analysis are in
+Nordhaus forthcoming). The model calculates the optnimal path for both capital
+accumulation and reduction of GHG emissions in the framework of the Ramsey
+(1928) model of intertemporal choice. The resulting trajectory can be inter-
+preted as the most efficient path for slowing climate change given inputs and
+technologies; an alternate interpretation is as a competitive market equilibrium
+in which externalities or spillover effects are corrected using the appropriate
+social prices for GHGs.
+The model questions whether it is better to consume goods and services,
+invest in productive capital, or slow climate change through redurtion of GHG
+emissions. The optimal path is one that maximizes an objective function that is
+the discounted sum of the utilities of consumption per capita. Consumption and
+investment are constrained by a conventional set of economic relationships
+(Cobb-Douglas production function, capital-balance equation, and so forth)
+and by a novel set of aggregate geophysical constraints (interrelating economic
+activity, GHG emissions and concentrations, climate change, costs of abatement,
+and impacts from climate change). The impact function is based on the discus-
+sion in the preceding section, while other relationships are drawn from sources
+in economics and the natural sciences.
+To give the flavor of the results, we will consider the economic optimum and
+compare it with two alternative policies that have been proposed by govem-
+ments or by the environmental community: stabilization of GHG eniissions at 80
+percent of 1990 levels, and stabilization of climate so that the change in global
+average temperature is limited to no more than 0.20 C per decade, with an
+ultimate limtit of 1.5 C.
+Solving the model for the three policies produces a time sequence of consump-
+tion, investment, Limitation of GHG emissions, and carbon taxes. The carbon
+Nordhaus                                                       371
+
+
+
+taxes can be interpreted as the taxes on GHGS (or the regulatory equivalent-say,
+in auctionable emissions rights) that would lead to the emissions levels required
+to attain the policy objectives described in the preceding paragraph.
+Table 2 illustrates the results of the model runs. The first column shows the
+necessary reductions in emissions for GHGS (including CO2 and cics). The sec-
+ond column shows the estimated carbon taxes necessary to produce the emis-
+sions reductions in a market economy. For calibration purposes, a carbon tax of
+$100 a ton would raise coal prices in the United States by about $70 a ton (or
+300 percent), would increase oil prices by about $8 a barrel, and would raise
+about $200 billion in revenues (before taking account of emissions reductions).
+The economic optimum produces relatively modest carbon taxes, rising from
+about $5 a ton carbon to about $20 a ton by the end of the next century. The
+stabilization scenarios require much more stringent restraints. For emissions
+stabilization, the carbon tax would rise from about $40 a ton carbon currently
+to about $500 a ton carbon late in the next century; climate stabilization
+involves a rise in carbon taxes from more than $100 a ton today to nearly
+$1,000 a ton by the end of the next century.
+We can also inquire into the estimated net economic impact in the model of
+alternative approaches. For the global economy, the economic optimum has a
+value over no controls of $270 billion (in terms of the discounted present value
+measured in 1990 consumption). Stabilizing emissions at 80 percent of 1990
+levels leads to a net-present-value loss of about $11 trillion relative to the opti-
+mum, while attempting to stabilize-climate would have a net-present-value cost
+of about $30 tillion. If these figures are annualzed at a discount rate of 6
+percent, the outcomes for the three policies are, respectively, a gain-of 0.8
+percent and losses of 3 and 9 percent of today's annuiM gross world output.
+Several other economic studies have been made of efficient approaches to
+slowing global warming. Research by Manne and Richels (1990, 1992), Peck
+and Teisberg (1992), and Kolstad (1992) reach conclusions roughly similar to
+those reported here. The studies by Jorgenson and Wilcoxen (see especially
+1991) show a lower set of carbon taxes needed to stabilize GHG emissions than
+those shown here, in part because of induced innovation.
+Cline (1992), Peck and Teisberg (1991), and Kolstad (1992), as well as earlier
+studies byNordhaus (1979, 1991), also determine the optimal emissions control
+rates and carbon taxes. With the exception of Cline, all the earlier studies show
+optimal policies in the general range of those determined here. dine, by con-
+trast, proposes much higher control rates, primarily because his result is not
+grounded in explicit intertemporal optimization and assumes a rate of time
+preference that is lower than would be consistent with observed real interest
+rates.
+In the implementation of a policy to slow climate change, issues will arise
+concerning the distribution of the burden among different countries. If it is
+decided to reduce GHG emissions, the criteria that might be proposed for burden
+sharing are many. Should the reductions be parceled out on the basis of income
+372                                        Climate and Economic Development
+
+
+
+Table 2. Alternative Policiesfor Slowing Climate Change
+(1990 dollars)
+A nnulited
+global impact
+Conrral rate. 1995   Carbon tax, 1995    (billions of
+Policy options                          (percent)a      (dollarsJb    1990 dollars*
+Optimal poliCy                            8.80             5.24            16.39
+20 percent reduction of emissions from
+1990 levels                            30.80            55.55          -762.50
+Stabilization of dimate                  47.40           125.80        -1,962.00
+a. Reduction of grenhouse gas emissions below baseline.
+b. Tax on greenhousc gas emissions in dollars per ton of carbon dioxide equivalent emissions, carbon weight.
+c. Present value of difference between base run and no-control case, annualized at a 6 percent real interest rate.
+Source. Authors calculations.
+or of wealth? On the basis of consumption, production, or reserves of fossil
+fuels? Should energy-efficient solutions be treated more favorably than ineff.i-
+cient solutions? Should the carbon quotas be distributed on the basis of popula-
+tion, land area, coastline, or current or future gross national product? Should
+areas that grow rapidly be penalized or favored? Should emnissions reductions be
+targeted to those whose past or present emissions are causing climate change or
+to those who will benefit from the reductions? (A plea for justice for the poorer
+nations, along with a critique of current approaches, is contained in Parikh
+1992.) There are clearly no "righet answers to these political questions, but
+judging from the performances of the nations at the 1992 "Earth Summit,"
+distributional quarrels may well be so loud that they drown out pleas for discus-
+sion of sensible policies.
+Uncertainties and Anxieties
+Most economic studies of climate change are based on smooth and gradual
+warming. The conclusion that emerges from most of these studies suggests that
+the best course is to impose modest restraints and move to other, more pressing,
+problems. Given the high costs of controls and the modest projected impacts of a
+10 to 20C warming over the next half century, how high is global warming on
+an international agenda that includes exploding population in the South, nuclear
+proliferation in the Middle East, collapsing economies in the East, increasing
+cycles of poverty and drug use along with stagnating incomes in the West, and
+outbreaks of violence and civil war almost everywhere?
+Given other urgent concems, we might condlude that global warming should
+be demoted to a second-tier issue, or perhaps even lower. Yet even for those who
+downplay the urgency of dealing with climate change, there remains a deep
+anxiety about future uncertainties and surprises. Scientists raise the specter of
+shifts in currents turning Europe into Alaska, of midcontinental drying that
+Nordbaus                                                                    373
+
+
+
+transforms grain belts into deserts, of great rivers drying up as snow packs
+disappear, of severe storms wiping out whole populations of low-lying regions,
+of surging ice sheets raising ocean levels by 20 to 50 feet, of northward migra-
+tion of old or new tropical pests and diseases into the temperate regions, of
+environmentally induced migration overrunning borders in search of livable
+land. Given the potential for catastrophic surprises, perhaps we should conclude
+that one of the major concerns, if not the major concern, lies in the uncertainties
+and imponderable impacts of climate change rather than in the smooth changes
+foreseen by the climate models.
+Once we open the door to consider catastrophic changes, a whole new debate
+begins. If we do not know how human activities will affect the thin layer of life-
+supporting activities that gave birth to and nurtures human civilization, and if
+we cannot reliably judge how potential geophysical changes will affect civiliza-
+tion or the world around us, can we use the "plain vanilla" cost-benefit analysis?
+Should we be ultraconservative and tilt toward preserving the natural world at
+the expense of economic growth and development? Do we dare put human
+betterment before the preservation of natural systems? Should we trust that
+human ingenuity will bail us out if nature deals us a nasty hand?
+Faced with this dilemma, we might be tempted to say that such questions are
+beyond the capability of rational analysis and turn the decisions over to abso-
+lutist approaches. But in fact, natural and social sciences have an important
+role to play in analyzing potential future outcomes and delineating potential
+responses. Society often requires that decisions be made in the absence of
+complete information, whether the decisions be in military strategy, oil drill-
+ing, or research and development. In each case, a reasoned decisionmaking
+process involves listing the events that may occur, estimating the consequences
+of the events, judging the probabilities that each of the events will occur,
+weighing the expected value of the consequences against the expected costs
+under different courses of action, and choosing the action that maximizes the
+expected value or utility of the outcome. Reasoned decisionmaking under
+uncertainty is no different for climate-change policy than for other areas,
+although it may be more complex and may require mere crossing of traditional
+disciplinary boundaries.
+Some might say that this calculus of costs and benefits is fine for the rich, who
+possess plenty of everything and have the luxury of planning for the next millen-
+nium. The logic is less compelling for poorer regions that cannot today afford to
+take food from the hungry, deny schooling to the poorly tramed, curb public
+health programs for the sick, and refuse transportation, shelter, and infrastruc-
+ture to the dispossessed. Why, it might be asked, should the current generation,
+with all its ailments and quarrels, be burdened with a costly agenda for dealing
+with changes in climate-an agenda that will produce some ill-defined and
+conjectural benefit for future generations that are likely to be much better off
+and better able to adapt to future shocks? The answer could be that soceties,
+like people, must be careful in their choice of enemies.
+374                                         Chmate and Economic Development
+
+
+
+Notes
+1. A notable cxception is a study by Kamarck (1976), which observes that the tropical regions are so
+burdened by laterite soils, weeds, locusts, parasites, and heat stress that, "all other relevant factors being
+equal, the pace of development in tropical countries tends to be slower."
+2. For cxample, see Strceten (1972), Nafziger (I9g9), and Todaro (1991). Perhaps the most striking
+irony is the treatment of the subject by Todaro. He states, "It is a historical fact that almost every
+successful example of modern economic growth has occurred in a temperate-zone country" (italics in
+original). He then takes nine lines of a large tome, with not a single refereace, to speculate on this
+remarkable "fact."
+3. A nontechnical description of the science underlying the greenhouse effect appears in National
+Academy of Sciences (1992). For a thorough survey, full of interesting figures and background, see the
+report by the Intergovernmental Panel on Climate Change (wrcc 1990).
+4. For example, an earlier study of the impact of global wanning on U.S. agriculture by Adams and
+others (1988) found that a doubling of CO2 would result in an annual loss to U.S. agriculture of S34
+billion. After taking into account a limited adaptive response by farmers, along with international
+adjustments in production and consumption, Reilly and Hohmann put these losses at an estimated $0.5
+billion-S2.7 billion. Even more dramatc results were found in Mendelsohn, Nordhaus, and Shaw
+(1993), in whicl the economic impact of a doubling of C02, with full adaptation but without interna-
+donal trade or CO2 fertilization, was estimated to be between -50.7 and +52 billion a year (in 1982
+prices).
+References
+Adams, R., Bruce A. McCarl, Daniel Dudek, and J. Glyer. 1988. "Implications of Global Climate
+Change for Western Agriculture." WesternJournal ofAgricultural Economics 13: 348-56.
+Cline, William. 1992. The Economics of Global Warming. Washington, D.C.: Institute of International
+Economics.
+EPA (U.S. Environmental Protection Agency). 1989. "The Potential Effects of Global Climate Change on
+the United Stares." Report to Congress, EPA-230-05-89-0S0. Washington, D.C.
+Fankhauser, Samuel. 1992. The Economic Costs of Global Warming: Some Monetary Estimates. Paper
+presented to the International Workshop on Costs, Impacts, and Possible Benefits of CO2 Mitigation,
+International Institute for Applied Systems Analyses (nAsA), September. Laxemburg, Austria.
+Huntington, Ellsworth. 191S. Civilization and Climate. Hainden, Conn.: Shoe String Press.
+IPCC. (Intergovernmental Panel on Climate Change). 1990. Cimate Change: The IPCC Scientific
+Assessment. J. T. Houghton, G.J. Jenkins, and 1. J. Ephraums, eds. New York: Cambridge University
+Press.
+Jorgenson, W. Dale, and Pexr J. Wilcoxen. 1991. "Reducing U.S. Carbon Dioxide Emissions: The Cost
+of Different Goats.- In John R. Moroney, ed., Energy, Growth, and the Engironment. Greenwich,
+Conn.: Ji Press.
+Kamarck, Andrew M. 1976. The Tropics and Economic Development: A Provocatve Inquiry into the
+Poverty of Nations. Baltimore, Md.: Johns Hopkins University Press.
+Kolstad, Charles D. 1992. "Looking vs. Leaping: The Timing of CO2 Control in the Face of Uncertainty
+and Learning." Papcr presented to the International Workshop on Costs, Impacts, and Possible
+Benefits of CO2 Mitizption, International Institute for Applied Systems Analyses (nASA), September.
+Laxenburg, Austria.
+Liverman, Diana M., and Karen L. O'Brien. 1991. "Global Warming and Climate Change in Mexico."
+Global Environmental Change 1 (December): 351-64.
+Manne, Alan S., and Richard G. Richels. 1990. "2CO2 Emission Limits: An Economic Cost Analysis for
+the USA." EnergyJourn a. 11(2): 51-74.
+-     . 1992. Buyng Greenhouse Insurance: The Economic Costs of CO2 Emission Limits. Cambridge,
+Mass.: Massachusetts Institutc of Technology Press.
+Nordhams                                                                          375
+
+
+
+Mendelsohn, Robert, William D. Nordhaus, and Daigee Shaw. 1993. Measuring Ihe Impact of Global
+Wamring on Agriculture. Cowles Foundation Discussion Paper. New Haven, Conn.: Yale University
+Press.
+Nafaiger, E. Wayne. 1990. The Economics of Developing Con1tries. Belmont, Calif.: Wadsworth.
+National Academy of Sciences. Committce on Scicnce, Engineering, and Public Policy. 1992. Policy
+Implications of Greenhouse Warming: Mitigation. Adaptation, and the Science Base. Washington,
+D.C.: National Academy Press.
+National Research Council. 1979. Carbon Dioxide and Climate: A Scientific Assessment. Washington,
+D.C.: National Academy Press.
+Nordhaus, William D. 1979. The Efficient Use of Energy Resources. New Haven, Conn.: Yale
+University Press.
+-. 1991. "To Slow or Not to Slow: The Economics of the Greenhouse Effect." Economic journal.
+101 Uuly): 920-37.
+-. 1992. 'An Optimal Transition Path for Slowing Climate Changc." Science 258 (November):
+1315-19.
+-. 1993. "How Much Should We Invest in Preserving Our Current Climate?" In Herbert Giersch,
+ed., Economic Progress and Environmental Concerns. Berlin: Springer-Verlag.
+- . forthcoming. Managing the Global Commons: The Economics of Climate Change. Cambridge,
+Mass.: Massachusetts Institute of Technology Press.
+Parikh,Jyoti K. 1992. "zrcc Strategies Unfair to the South." Nature 360 (10) (December): 507-08.
+Peck, Stephen C., and Thomas J. Teisberg. 1992. "CETA: A Model for Carbon Emissions Trajectory
+Assessment." Energy Journal 13 (1): 55-77.
+Ramsey, Frank P. 1928. "A Mathematical Theory of Saving." Economic Jou rnal (December): 543-S9.
+Reilly, John, and Neil Hohmann. 1993. "Climate Change and Agriculture: The Role of International
+Trade" American Economic Review 83 (May): 306-12.
+Strecten, Paul. 1972. The Frontiers of Development Studies. New York: Wiley.
+Todaro, Michael P. 1991. Economic Development in the Third World. New York. Longman.
+Weyant, John. 1993. aEmFl12 The Modeling Comparison on the Costs of CO2 Reductions." American
+Economic Review (May).
+World Bank, World Wide Fund for Nature, and State Meteorological Administration of China. 1992.
+Climate Change due to te Greenhouse Effect and Its Implications for China. Gland, Switzerland:
+World Wide Fund for Nature.
+376                                                      Climate and Economic Development
+
+
+
+COMMENT ON "CLIMATE AND ECONOMIC DEVELOPMENT,"
+BY NORDHAUS
+Dale W. Jorgenson
+In 1896 Svante Arrhenius, a distinguished Swedish physicist, calculated that a
+doubling of atmospheric concentrations of carbon dioxide in the earth's
+atmosphere would increase global mean temperatures by 4 to 6 degrees C. In
+1990 the Intergovernmental Panel on Climate Change (iPcc), an international
+group of leading atmospheric scientists, estimated that a doubling of global
+concentrations of carbon dioxide would increase temperatures by 1 to 5 degrees
+C in long-run equilibrium and that temperatures would rise 3 to 6 degrees C by
+2100, with a best guess of slighdy over 4 degrees C.
+This brief history of scientific findings on global climate change illustrates an
+important point: the critical features of the phenomenon are relatively easy to
+grasp. Arrhenius' calculations, although based on a sophisticated application of
+well-known physical principles, can be described in today's language as "back-
+of-the-envelope," since they were carried out long before the invention of the
+computer. Even so, the results demonstrated the importance of the wanning
+effect of carbon dioxide and other "greenhouse" gases and explained why our
+planets atmosphere is hospitable to life, including human life.
+The estimates prepared by the nPcC, by contrast, are based on a summary of
+the latest results from elaborate computer-based simulation models of global
+climate, known as global circulation models (GCMS). GCMS employ physical
+principles similar to those of Arrhenius but incorporate much greater detail and
+more up-to-date estimates of the underlying physical constants. Although GCMs
+have produced much valuable information about present and future climates,
+Arrhenius got the greenhouse effect of carbon dioxide accumulations in the
+atmosphere about right.
+As Nordhaus emphasizes, this field of economics is in its infancy-definitely
+closer to Arrhenius's stage than to that of the GCMs-but the basic outlines of the
+problem are accurately described in his paper. The results are at sharp variance
+Dale W. Jorgenson is Frederick Eaton Abbe Proessor of Economics at Harvard University.
+Proceedings of the World Bank Annual Conference on Development Economics 1993
+  1994 The International Bank for Reconstruction and Development / THE WORLD BAN  377
+
+
+
+with policy approaches now in common use and suggest that economists will
+have an uphill battle in bringing their perspective to bear on global dimate
+policy.
+The results of Nordhaus's research to date are summarized in tables 1 and 2 in
+his paper. A doubling of carbon dioxide concentrations in the atmosphere over
+the next century could result in a substantial economic loss. For the United
+States the effect could be equivalent to a reduction of 1.0 to 1.3 percent of gross
+national product. One estimate puts global damage at 1.S percent of world
+product. Much careful work remains to be done to refine these estimates, but
+the broad outlines are clear enough; global climate change could impose a loss of
+the order of magnitude of one year's growth.
+Nordhaus shows that an optimal global climate policy would produce bene-
+fits, relative to no controls, of 0.8 percent of world product, or half the total loss
+attributable to climate change. This policy could be implemented by imposing a
+world carbon tax beginning at $5 a ton and gradually rising to about $20 a ton
+by the end of the next century. This would slow the rate of increase of carbon
+dioxide emissions but would allow both emissions and atmospheric concentra-
+tions to rise well above historical levels.
+Nordhaus's proposal stands in stark contrast to the global dimate policy
+discussed at the "Earth Summit" in Rio de Janeiro in June 1992, which focused
+on a goal of stabilizing emissions of carbon dioxide at 1990 levels. This goal has
+been analyzed in Nordhaus (1992), using the same modeling framework as in
+his determination of an optimal climate change policy. I have already pointed
+out that the optimal policy produces a gain relative to a policy of no controls,
+cutting the cost of climate change in half. By contrast, the goal of stabilizing
+emission, if achieved at minimum cost, would produce an annual loss equivalent
+to 1.6 percent of world product, thereby doubling the loss from climate change.
+More stringent goals, such as those presented in table 2 of Nordbaus's paper,
+have also been discussed. These include stabilizing emissions at 20 percent
+below 1990 levels and stabilizing climate, which would imply declining concen-
+trations of greenhouse gases in the atmosphere at some time in the future.
+The costs of the more ambitious goals are staggering. Stabilizing global cli-
+mate, for example, would bring about a loss of 9 percent of world output, or
+several times the cost of no controls. It is important to point out that the
+stabilized climate would record an average global temperature of 1.5 degrees C
+above current climate, requiring substantial adaptation to the new climate. In
+short, Nordhaus has made a major contribution to our understanding of global
+climate policy by implementing a cost-benefit approach that takes into account
+the relevant economic and physical data about the interaction of future eco-
+nomic growth with emissions of greenhouse gases.
+The question is, in the absence of a world government, how could a global
+carbon tax be successfully implemented? One option being discussed is the use
+of internationally tradable permits for carbon dioxide emissions. A binding
+international agreement to implement such a scheme might or might not be
+378                                                         Comment
+
+
+
+combined with efforts to redistribute wealth. This is the aspect of global climate
+policy that has attracted the attention of many development economists, espe-
+cially those schooled in the "North-South" debates of recent decades. Of course,
+the use of global dimate policy for redistribution becomes substantially less
+attractive with Nordhaus's optimal global climate policy because far less money
+would bc involved.
+Unfortunately, "official" discussions of climate change at the "Earth Summit"
+or within individual countries have not been informed by such straightforward
+calculations as those in Nordhaus's paper. The key economic concepts, such as a
+carbon tax and internationally tradable permits, have been widely discussed, but
+almost exclusively in qualitative terms. The goal for economic research identi-
+fied by Nordhaus is to determine the right balance between costs and benefits in
+setting objectives for global climate policy. Two decades of public debate on
+environmental issues in the United States and elsewhere have revealed that this
+goal is deceptively easy to state but almost impossible to achieve. With a few
+exceptions, economists have chosen to limit their analysis to the use of economic
+incentives to achieve objectives determined by others. The official U.S. position,
+advanced by the Bush administration in Rio de Janeiro, is a textbook illustration
+of this approach.
+In fact, the situation is worse than I have suggested. Market-based or eco-
+nomic incentives are faring poorly in the intellectual competition with
+"'command-and-control" approaches that focus on legal regulations and engi-
+neering solutions to limit greenhouse gas emissions. Command-and-control pol-
+icies, now thoroughly disaedited in the formerly socialist economies, survive in
+current debates over global dimate policy in the so-called market economies.
+Cost-benefit analysis of the type Nordhaus has successfully applied to global
+climate policy is conspicuous in practical policy debates, such as those now
+under way in the United States, mainly by its absence.
+judging from the discussion at the "Earth Summie'-and its aftermath-it is
+possible that the economic point of view will once again be excluded from the
+environmental policy debate. My own preliminary estimate is that future devel-
+opment of the economics of global climate change will reveal Nordhaus in the
+role of Svante Arrhenius in setting the agenda for future scientific research. I
+think his paper and the work that it summarizes contain the appropriate starting
+point for all future discussion of this important environmental issue.
+Reference
+Nordbaus, William D. 1992. "An Optimal Transition Path for Controlling Greenhouse Gases." Science
+258:1315-19.
+Jorgemon                                                           379
+
+
+
+COMMENT ON "CLIMATE AND ECONOMIC DEvELoPMENT,"
+BY NORDHAUS
+Robert H. Williams
+Ldo not find convincing Nordhaus's assessment that the impacts of global
+warming will be minor. Moreover, I think he has greatly overestimated the
+costs of making major reductions in greenhouse gas emissions.
+Nordhaus's calculations, using his DICE model (Nordhaus 1992), do not take
+into account the large uncertainties in the impacts-for example, the potential
+for converting grain-producing regions of midcontinents into deserts, the inten-
+sification of hurricanes, the creation of environmental refugees, and political
+instability-although Nordhaus does acknowledge such possibilities. While
+poor countries are likely to be the most vulnerable to the potential adverse
+impacts of global warming and the least capable of taking corrective action,
+Nordhaus simply argues that poor countries have more pressing problems. Per-
+haps the most serious shortcoming of Nordhaus's assessment of impacts is his
+failure to take into account the long-term impacts of prospective greenhouse gas
+emissions during the next century.
+Unfortunately, the long-term impacts of the buildup of greenhouse gases in
+the atmosphere have been given little attention in climatic modeling efforts. The
+"business-as-usual" emissions scenarios developed in the assessments by the
+Intergovernmental Panel on Climate Change of climatic impacts of greenhouse
+warming (iPcc 1990, 1992) lead to a quadrupling of the atmospheric concentra-
+tion of the C02-equivalent greenhouse gases relative to pre-industrial levels
+near the year 2100. These assessments do not explore the implications of this
+quadrupling beyond the year 2100. However, in a global ocean-atmospheric
+modeling analysis, Manabe and Stouffer (1993, 1994) explore the implications
+over a 500-year period of a scenario in which the atnospheric concentration of
+CO2 (a) quadruples in roughly the time frame envisioned for greenhouse gas
+quadrupling in the wpcc business-as-usual scenario and (b) remains constant
+Robert H. Williams is senior research scientist at the Center for Energy and Environmental Studies,
+Princeton University.
+Proceedings of the World Bank Annual Conference on Deuelopment Economics 1993
+@ 1994 The International Bank for Reconstruction and Development / THE WORLD BANK  381
+
+
+
+thereafter. In assessing impacts it is essential to take a long-term view of near-
+term actions-first because the ocean-atnosphere system will not have fully
+responded to the increased greenhouse gas concentration level in a hundred
+years, as a result of the thermal inertia of the oceans, and second, because near-
+termn releases of greenhouse gases are irreversible.
+One of the serious consequences of a quadrupling of the CO2 concentration,
+according to the findings of Manabe and Stouffer, is a virtual cessation of the
+south-north overturning in the world's oceans, caused by the capping effect of less
+dense fresh surface water in higher latitudes as a result of increased precipitation
+in the warmer, wetter atmosphere. Another consequence is a sharp rise in sea
+level: 1.8 meters just from the thermal expansion of the warmed sea water, plus a
+further large increment caused by the melting of continental icesheets (mostly in
+Greenland and the edge of Antarctica). The latter contribution to sea level rise
+depends on the extent of refreezing, which is uncertain. With no refreezing, the
+total sea level rise (thermal expansion plus ice sheet melting) in 500 years would
+be about 9 meters; if only half of the melrwater eventually reaches the oceans, the
+total sea level rise would still be about 5 meters. In any case, the prospective sea
+level rise would be a very serious impact. Furthermore, the 70 C increase in the
+global mean air temperature ab.ociated with a quadrupling of CO2 is nearly as
+Large as the inferred difference between today's climate and the very warm Cre-
+taceous period 65 million-90 million years ago. Although important uncertainties
+remain and no effort has yet been made to put a dollar value on these prospective
+globsl changes, the implications of this modeling exercise, even if only parially
+correct in predicting the behavior of the ocean-atmosphere system, are daunting.
+It would be foolish to ignore such potential consequences-especially in light
+of the prospect that the costs of reducing emissions are likely to be far less than
+Nordhaus has estimated. There are major opportunities for reducing CO2 emis-
+sions from fossil fuel burning at low cost, through the pursuit of opportunities
+for making more efficient use of energy and the accelerated development and
+widespread adoption of various renewable energy technologies. The possibilities
+arc illustrated by a renewables-intensive global energy scenario (RuGES) devel-
+oped in a study to assess the prospects for renewable energy Johansson and
+others 1993). The assessment, commissioned by the United Nations Solar
+Energy Group for Environment and Development as an input to the 1992
+United Nations Conference on Environment and Development (uNcm), was
+carried out by more than fift of the world's leading experts on renewable energy
+from eleven count -es. The options studied included hydroelectric, wind, solar
+thermal, photovoltaic, and geothermal power; electricity from biomass; alcohol
+fuels and hydrogen from biomass; and hydrogen produced electrolytically from
+wind, photovoltaic, and hydroelectric power sources. The RiGES shows the
+potential impacts on the global energy system for the years 2025 and 2050 of the
+accelerated development of the more promising renewable technologies.
+The energy demand scenario adopted for the exercise was one of several
+constructed by the Response Strategies Vorking Group of the IPcc (1990). This
+382                                                           Comment
+
+
+
+scenario-a set of regional projections of demand for electricity and for gaseous,
+liquid, and solid fuels used directly-is characterized by "high economic
+growth" and "accelerated policies" and is based on an assumed doubling of
+world population and an eightfold increase in gross world economic product
+between 198S and 2050. Energy demand grows more slowly than economic
+output because of the accelerated adoption of energy-efficient technologies. The
+demand for fuels used directly is projected to increase 30 percent between 1985
+and 2050, and demand for electricity, 26S percent.
+Renewable technologies are unlikely to succeed unless they are a part of a
+program designed to minimize the overall cost of providing energy services.
+Thus the energy-efficiency assumptions underlying the accelerated policies sce-
+nario are consistent with the objectves of the RICES. Because a slowly growing
+economy generally provides a poor theater for innovation and RIGES calls for
+rapid innovation in the energy sector, the high-economic-growth variant of the
+accelerated-policies scenario was chosen.
+Energy supply mixes consistent with estimates of fossil fuel and renewable
+natural resource endowments and expected relative prices were constructed,
+with overall supply levels matched to the IPcc demand projections, for each of
+eleven world regions. The purpose of the exercise was not to forecast how a
+renewables-intensive energy future would evolve but rather to see how it might
+evolve under appropriate policies if society should decide that a renewables-
+intensive energy future is desirable. The authors assumed that renewable tech-
+nologies would capture markes whenever (a) a plausible case can be made that
+renewable energy is no more expensive on a life-cycle-cost basis than conven-
+tional alternatives and (b) the use of renewable technologies at the levels indi-
+cated will not create significant environmental, land use, or other problems. The
+authors did not take into account in the economic analysis any credit for non-
+market benefits of renewables but assumed that market barriers to the wide
+adoption of renewable energy technologies would be removed by appropriate
+national and international policies.
+In the RiGES renewable energy provides nearly three-fifths of global primary
+energy requirements by 20O50, with biomass accounting foiL about three-fifdts of
+all renewables. The fraction of electricity generated by renewables is about the
+same; half of this comes from intermittent renewables (wind, photovoltaic, and
+solar thermal-electric sources) and about a quarter each from hydropower and
+biomass. If the RIGES could be implemented, global CO2 emissions from the
+energy sector in 2050 would be reduced by about 25 percent relative to 1985
+emissions, and this reduction would be achieved with no increase in the cost of
+providing energy services. Moreover, because energy demand would be much
+lower than under business-as-usual conditions, and because of increased compe-
+tiion in energy markets from fuels derived from renewabic sJurces, world
+energy prices would be lower than under business-as-usual conditions.
+There are uncertainties underlying the RIGES, especially since many of the
+needed technologies are not yet commercially available. But all the technologies
+W11iuia                                                      383
+
+
+
+involved are at sufficiently advanced states of development that technical and
+economic performance can be described with a reasonable degree of confidence.
+The key to realizing the RIGES is a set of public and private sector policies aimed
+at exploiting the cost-effective potential for more efficient use of energy and
+accelerating the development and commercialization of a wide range of renew-
+able energy technologies.
+Policies designed to rationalize energy prices to reflect the true costs of energy,
+as well as various measures for dealing with market imperfections, are needed to
+promote the more efficient use of energy. U.S. experience offers examples of the
+latter: (a) energy efficiency standards (such as those for automobiles and con-
+sumer appliances); (b) the federal mandate that electric utilities purchase, at
+prices equal to the avoided costs, electricity produced by qualifying cogenera-
+tors; (c) the new federal government-industry partnership that seeks to bring to
+commercial readiness in a decade a new generation of cars that are three times as
+energy-efficient as today's; and (d) state regulations mandating that utilities
+practice integrated resource planning-that is, pursue the most cost-effective
+mix of investments in new supply and energy efficiency improvements to meet
+the demand for expanded energy services.
+The desirability of accelerating the pace of development of renewable energy
+technologies stems not only from a wide range of external benefits of renew-
+ables, of which the potential for reducing greenhouse gas emissions is only one
+UJohansson and others 1993) but also from the prospect of substantial direct
+economic benefits. This prospect arises from the special characteristics of a wide
+range of renewable energy technologies that distinguish them from fossil fuel
+and nuclear technologies.
+Large fossil fuel and nuclear energy facilities require extensive construction in
+the field, where labor is cosdy and productivity gains are difficult to achieve.
+The long construction periods for these systems also make it difficult to cut costs
+through "earning-by-doing." In the 1970s and 19SOs production bottlenecks-
+arising from the practical difficulties of standardizing designs for large energy
+production facilities, from tougher environmental regulations, and from grow-
+ing public opposition to the construction of new facilities-often meant that
+energy from new plants was more costly than that from old plants.
+In contrast, the small unit sizes of most renewable energy equipment facilitate
+cost cutting as a result of both learning-by-doing and technological improve-
+ments. This equipm nt can be constructed in factories, where it is easier to apply
+modem manufacturing techniques that facilitate cost -reduction. Also, because
+with small-scale equipment the time required from design to operation is short,
+needed improvements can be identified by field testing and quicldy incorporated
+into modified designs. As a result of such leaming-by-doing, many generations
+of marginal technological improvements can be rapidly introduced.
+For technologies with these attributes and with good prospects for technologi-
+cal improvement, it will often be worthwhile to develop them as quickly as is
+feasible. A detailed case study for photovoltaics has been carried out to illustrate
+384                                                            donmnz
+
+
+
+this point (Williams and Terzian 1993). It is shown that if photovoltaic technol-
+ogy is developed rapidly through enhanced support for research and develop-
+ment and market stimulation subsidies, costs fall much more quickly than under
+business-as-usual conditions, and the discounted present worth of future net
+benefits (considering only the net savings to consumers from reduced electricity
+bills as a result of the displacement of fossil energy) is very large in relation to the
+subsidies. An accelerated-development scenario is described that leads to
+400,000 megawatts of installed photovoltaic capacity worldwide by the year
+2020 (consistent with what is needed for the RIGES). For this scenario, the
+present value of net future benefits is estimated to be of the order of $100 billion
+worldwide, as against costs of $3 billion for the needed market incentives and a
+substantial increase in the photovoltaic R&D effort (which presently costs OECD
+governments about $200 million per yehr).
+Of course, one cannot be sure that any one renewable energy technology will
+be successfully deployed in the market as a result of such an effort. However, the
+modular scale of photovoltaic and other renewable technologies makes it gener-
+ally possible to pursue a diversified portfolio of options to reduce risk. This is in
+sharp contrast to the situation for large-scale fossil and nuclear fission and
+fusion technologies; because tlhe necessary R&D and market stimulation sub-
+sidies tend to be very large, society can afford to explore only a narrow range of
+alternative options simultaneously.
+The World Energy Council has also estimated what it will take to commer-
+cialize photovoltaic and various other renewable technologies (WEC 1993). In
+the case of photovoltaics the WEC estimates a market stimulation cost of $2.S
+billion to $4.0 billion, plus another $5 billion for R&D. The total cost of
+development for a set of various renewable energy technologies is estimated at
+$15 billion to $20 billion-a trivial amount compared to what the public sector
+has traditionally spent on energy R8D. (For example, OECD countries spent
+$100 billion, in 1992 dollars, on R&D for nuclear fission energy during the
+period 1977-91 and probably twice that much if expenditures for the period
+1950-76 are included.) The costs of developing renewables are especially small
+in re!. non to the total subsidies provided by governments to the energy sector.
+For example, the market value of all U.S. government subsidies to the energy
+sector is estimated to have been $36 billion in 1989, including $21 billion for
+fossil fuels and $11 billion for nuclear fission (Koplow 1993).
+Not only is the benefit-cost ratio of pursuing an energy-efficient, renewables-
+intensive energy future likely to be very favorable for the global economy, but also
+the diversity of benefits offered by such an energy path would be especially impor-
+tant to many developing countries because it would make it easier for them to
+address many of the challenges Nordhaus believes are more pressing than the
+greenhouse problem. It is highly unlikely that the economic goals of developing
+countries can be realized by retracing the development pats already taken by the
+industrial countries. Alternative paths involving innovative solutions offer more
+promise. In trivializing the greenhouse challenge for developing countries, Nord-
+Williams                                                       385
+
+
+
+haus overlooks the potential for energy innovation-in particular, in simul-
+taneously addressing global warming and broad development challenges.
+Developing countries need advanced technologies not just to meet environ-
+mental objectives but also to promote long-term economic growth. Some
+advanced technologies can be obtained by technology transfer from industrial
+countries. But developing countries also need technologies better tailored to
+their circumstances than those already in use in industrial countries. Whereas
+developing countries are labor rich and capital poor, many of the new technolo-
+gies developed in industrial countries are labor-saving and capital-intensive.
+Labor-intensive, capital-saving innovative technologies-for example, various
+biomass energy technologies-would often be more appropriate for developing
+countries. Moreover, the needs for innovation are different in developing and
+industrial countries. Since basic materials (such as steel, cement, and glass) are
+needed for infrastructure building, the basic-materials-processing industries
+should be engines for economic growth for many developing countries. Innova-
+tions in these industries typically lead to processes that, in addition to being less
+costly, are cleaner and less energy-intensive and emit less greenhouse gases.
+Developing countries cannot depend on the industrial countries for innovations
+in these industries because the demand for basic materials is largely saturated in
+the industrial countries (Williams, Larson, and Ross 1987) and litle innovative
+activity is going on there in the relevant industries. And finally, natural resource
+endowments are different; many developing countries have scant fossil fuel but
+abundant biomass and direct solar energy resources.
+Without support from the industrial countries, energy planners in developing
+countries are unlikely to pursue innovative energy technologies. Faced with
+many pressing development challenges, these planners are reluctant to assume
+risks that provide only long-term payoffs. In addition, many planners have been
+"burned" by past efforts to transfer advanced energy (such as nudear) technol-
+ogy from the industrial countries. And the development assistance community
+has also not been supportive of innovations for the energy sector. This policy
+seems to be attributable pardy to the World Bank's goal of providing loans at
+below-market interest rates and pardy to the widely held view in the develop-
+ment assistance community that the infrastructure to support the innovative
+process does not exist in developing countries.
+Such problems must be addressed, and a new climate conducive to energy
+innovation in developing countries must be created. The global-warming
+debates could very well provide the impetus needed. As a result of the uNCED
+process, many decisionmakers in industrial countries are coming to realize that
+unless there is substantial energy innovation in developing countries aimed at
+shifting away from high-carbon-content fossil energy sources, future energy
+growth in developing countries will accelerate global warming, no matter what
+the industrial countries do at home.
+If the Global Environment Facility (GEF) were to emphasize innovative proj-
+ects, such as its biomass gasification-power generation project in northeast
+386                                                          Comment
+
+
+
+Brazil (Elliott and Booth 1993), the development assistance community would
+be off to a good start in addressing the innovation challenge. But much more
+needs to be done; for example, support from industrial countries is also needed
+to help build the infrastructure for the innovative process in developing
+countries.
+Whereas Nordhaus believes that the impacts of global warming will be minor
+and that developing countries have more pressing problems to worry about, I
+believe that the potential impacts cannot be lightly dismissed and that the costs
+of addressing the greenhouse challenge can be kept to acceptably low levels.
+Moreover, the greenhouse issue is already forcing the North to pay more atten-
+tion to the development needs of the South. It could very well provide the
+organizing principle needed to help the industrial and developing countries find
+ways to work together in identifying and pursuing the path to a sustainable
+world.
+References
+Eltiott, P., and R. Booth. 1993. "Brazilian Biomass Power Demonstration Project: Special Project Brief."
+Shdl International Pctroleum Company, London.
+IPcc (Intergovernmental Panel on Climate Change). 1990. Climate Change: The IPCC Scientfsc
+Assssment. J. T. Houghton, G. J. Jenkins, and J. J. Ephraums, eds. Cambridge, U.K.: Cambridge
+llniversity Press.
+-. 1992. Climate Change 1992: The Supplwe.nary Report to the 1PCC Scientific Assessmsent. J. T.
+Houghton, B. A. Ballander, and S. K. Vaney, eds. Cambridge, U.K: Cambridge University Press.
+johansson, T. B., H. Kelly, A. K. N. Reddy, and R. H. Williams, eds. 1993. Renewabk Energy. Sources
+for Fuels and Electricity. Washington, D.C.: Island Press.
+Koplow, D. N. 1993. "Federal Energy Subsidies: Energy, Environme:ntal, and Fiscal Impactl The
+Alliance to Save Energy, Washington, D.C.
+Manabe, S., and R. J. Stouffer. 1993. "Century-Scale Effects of Increased CO2 on the Ocean-Atmosphere
+System." Nature 362 (6434): 215-17.
+1994 'Multi-Century Response of a Coupled Ocean-Atmosphere Model to an Increase of
+Atnospheric Carbon Dioxide."Journal of Climate 7 (1).
+Nordhaus, William D. 1992. "An Optimal Transition Path for Controlling Grcenhouse Gases." Science
+258:1315-19.
+Response Strategies Working Group of the Intergovernmental Pand on Climate Change. 1990. Emissions
+Scenarios: Appendix of the Expert Group on Emissions Scenarios. Washington, D.C.: U.S.
+Envirownental Protection Agency.
+Williams, R. H., E. D. Larson, and M. I. Ross. 1987. 'Materials, Affluence, and Industrial Energy
+Use," Annual Review of Energy 12: 99-144.
+WilLiams, R. H., and G. Terzian. 1993. "A BenefitlCost Analysis of Accelerated Devedopment of
+Photovoltaic Technology." PulCEFS Report 281. Center for Energy and Environmental Studies,
+Princeton University, Princeton, N.J.
+nEc (World Energy Council). 1993. "Renewabie Energy Resources Opportunities and Constraints
+1990-2020." London.
+williams                                                                        387
+
+
+
+COMMENT ON "CCUMATE AND ECONOMIC DEVELOPMENT,"
+BY NORDHAUS
+Dennis Anderson
+Ihave two comments: one on costs, the other on benefits. But first a point of
+agreement. Professor Nordhaus is well justified in concluding that a much
+higher priority needs to be given to development in the poorer regions of the
+world than to addressing the greenhouse effect. When theWorld Bank team was
+drafting World Development Report 1992, on development and the environ-
+ment, among our concerns was that influential groups in the wealthy countries,
+preoccupied with the greenhouse effect, would drive key problems of develop-
+ment off the intemational agenda. We argued not only that local economic-not
+to say local environmental-problems in developing countries were of far
+greater importance but that the achievement of higher living standards and
+economic stability in developing countries would leave them better placed to
+address the global-warming problem, should the need arise. That the cost-
+benefit studies of Nordhaus and his colleagues have helped policymakers con-
+centrate on priorities is in itself is a major accomplishment.
+Nevertheless, the nature of the global-warming problem requires that precau-
+tionary policies be put in place. Nordhaus accepts this, of course, when he
+argues for a modest carbon tax. But I think we need to be more specific about
+the (precautionary) policies required and to look at costs and technical develop-
+ments more critically. The following remarks also draw on the comments of
+Professor Williams.
+Costs and Technical Developments
+Along with Williams, I believe that Nordhaus has overestimated the costs of
+controlling carbon emissions, and I too find Nordhaus's paper to be tacitly
+pessimistic in its assumptions about technical progress. Even in an energy-
+Dennis Anderson is adviser in the World Banles Industry and Energy Department.
+Proceedings of the World Bank Annual Conferece on Developnt Economics 2593
+  1994 The Intenational Bank for Reanstruction and Development  ThE WORLD BNK  389
+
+
+
+efficient scenario, it seems likely that the world demand for commercial energy
+will rise from its present level of about 8 billion tons of oil equivalent a year to
+15 billion-20 billion tons, and possibly more, over the next few decades. The
+main source of growth will be the developing countries; although their per
+capita consumption levels range from one-eightieth to one-tenth of per capital
+consumption in the United States, they are rising rapidly. Since 95 percent of
+world commercial energy demands are met by fossil fuels, and given the failure
+of nuclear power as a backstop technology, it is dear that addressing the global-
+warming problem, if the problem indeed becomes grave, will require the use of
+renewable energy on a large scale-such as biomass solar energy from photo-
+voltaics and thermal-solar schemes.
+As far as we can presently see, therefore, once the (very fruitful) opportunities
+for improving energy efficiency have been exploited, both the marginal and the
+average costs of addressing the global-warming problem will be determined by
+the costs of using renewable energy. Although other possibilities cannot be ruled
+out, the costs of renewables at least provide a basis for estimating marginal and
+average costs. Let us consider this further.
+The marginal costs will likely be determined by the costs of liquid fuels. It will
+be difficult indeed for renewables to compete with petroleum fuels. An indica-
+tion of what these costs might be is provided by the example of the fuel-cell
+electric vehicle, which is now under active development. Williams and others
+have estimated that by 2010 net costs could fall to about S140 per ton of
+carbon, given a commitment to develop such vehides. These estimates are
+between one-fifteenth and one-seventh of the margnal costs of $1,000 a ton for
+the end of the next century quoted by Nordhaus, whose estimates make litde
+alowance for innovation and technical progress in energy supply. (As only three
+words in Nordhauses paper are devoted to nonfossil fuels, however, it is difficult
+to understand the basis of his estimates.)
+One reason why Williams and others have estimated lower costs is that they
+properly allow for the thermodynamic disadvantages of the internal combustion
+engine. (Its technical efficiency is only about 20 percent, as compared with 60
+percent for the fuel-cell electric vehicle.) If Williams and others were not to allow
+for this threefold gain in efficiency, their estimates of carbon taxes would also be
+very high, around $900 a ton. (This is more than three times Williams's estimate
+of $120 per ton because we are tailcing about d#fferences in the marginal costs of
+using conventional and fuel-cell electric vehicles.) In addition, we must not
+overlook what might happen to fossil-fuel prices if, as is possible, energy con-
+sumption in the next century were to be five or more times the amount con-
+sumed in the present century. It seems likely, for example, that the world will
+eventually have to turn to more expensive synfuels sooner or later (industry is
+already weighing this possibility), and this too would make a differnce in the
+calculation of costs.
+Next, consider the electricity markets, which will probably account for more
+than half of the energy market before long. (The share is now about 40 percent,
+390                                                           Comment
+
+
+
+but it continues to rise.) Two promising candidates for power generation-both
+especially well suited to developing countries, where solar insolations are 2.0 to
+2.5 times those in the "North"-are photovoltaic and solar-thermal technolo-
+gies. The costs of both have fallen dramatically in recent years. In the case of
+photovoltaics, costs have declined by a factor of S0 to 100 since the early 1970s,
+and there are convincing engineering and economic reasons for expecting further
+progress (see figure 1). There is consequently much commercial interest in the
+development of these technologies. A perusal of the proceedings of the Photo-
+voltaics Specialists Conference, held every eighteen months or so by the Ameri-
+can Institute of Electronics and Electrical Engineers, also testifies to the intellec-
+tual quality of the research effort in industry and in the research establishments.
+Mention should also be made of solar-thermal projects, of which about 400
+megawatts worth are presently in operation in the United States at costs of
+around 15 cents a kilowatt-hour. The technology is modular, construction times
+are short, scale economies in manufacture have yet to be exploited, and there is
+much scope for improving conversion efficiencies. Moreover, thermal energy
+can be stored. There is every prospect that these technologies could begin to
+compete with fossil, hydroelectric, and nuclear power in high-insolation areas of
+the world in a decade or so. Moreover, solar energy is not a land-intensive
+resource; the land intensity of solar schemes is less than one-hundredth of the
+land intensity of, for example, the Aswan hydroelectric project in Egypt.
+In sum, although we cannot be very precise as to comparative costs, we do
+know that they will not be too far removed from the costs of fossil fuels for
+electricity generation, and there is a good chance that they will eventually be
+lower than these costs in the high-insolation areas of developing countries. It is
+possible therefore that the cost estimates now being used in the climate cost-
+benefit models could be in error by a large order (the same could also be true of
+the estimates of benefits), and there is a danger that they could mislead policy-
+makers into neglecting promising developments in the backstop technologies
+and thus to neglect the need for precautionary policies.
+Options for Environmental Policy.
+Despite the uncertainties of costs and benefits, economists need to provide more
+specific policy advice than they have so far. The standard recommendations are
+for carbon taxes, energy efficiency, and afforestation. But four other options, I
+think, also ought to be explored.
+National R&D. National research and development portfolios need to be
+restructured to support the emerging technologies. Public research on
+energy is heavily skewed toward nuclear power, provides little support for
+renewable energy technologies, and has yet to recognize the important tech-
+nological developments that have taken place over the past two decades.
+Anderson                                                         391
+
+
+
+Figure 1 Costs of the Pbotovoltakc Module
+Module cost (1990 dollars per wan peak; log scale)
+10,000
+1,000
+-
+100
+10*0O
+1.00 0 
+0.1~~~~~~~~
+1970    1975   1980   1985    1990   1995   2000   2005   2010   2015
+Note. All costs for years up to and including 1992 are actual; those after 1992 are projected.
+The Ispread'" in the points reflects the spread in costs of different technologies that are at
+different stages of development. The size of the module used also affects cost, as does thie
+number of modules ordered.
+Sourcer Based on a review of more than fiftyg studies and manufacturers in Ahmned 1994.
+392                                                                     comment
+.~~~~:   g
+
+
+
+* International R &D. Energy research should be more "outward looking."
+The industrial countries tend to be narrowly nationalistic-most notably, in
+nuclear power. The emerging global energy problems provide an excellent
+opportunity for a new perspective that would serve the energy industry itself
+much better than have previous policies. The growth of world markets and
+the prospects for good commercial investments in renewable energy also
+argue for outward-looking programs and a greater degree of cooperation
+among countries. Much, I think, can be learned from the working arrange-
+ments of the Consultative Group for International Agricultural Research
+(CGIAR).
+* Investment incentives for innovative technologies. Tax incentives could be
+provided to stimulate the use of new technologies in cases where "learning
+by doing" reduces costs (recall Arrow's 1962 paper on this subject).
+* Carbon user charges. A carbon user charge-as distinct from a carbon tax-
+could finance such research and development and tax incentives. Uncertain-
+ties about the greenhouse effect (not to mention the changing whims of
+governments) pose a financial risk for investors that a carbon tax would not
+adequately address, since investors would need to allow for the possibility
+of a reduction in such taxes because of changing perceptions as to the
+seriousness of the problem. It is neither reasonable, nor is it consistent with
+the principles of good policymaking, to expect industry to bear that portion
+of the risks of investment associated with uncertainties about the green-
+house effect. If industry were in fact expected to bear them, it would rightly
+favor the more "conservative" interpretations of the available evidence.
+Research and development in the backstop technologies typically has a lead
+time of five to ten years (indeed, ten to fifteen years if one allows for
+research on manufacturing methods), while the investments themselves,
+once in operation, may have lifetimes of twenty to thirty years. Hence the
+financial risks are not trivial, and the effects of even large carbon taxes
+could turn out to be weak. An alternative might be to "capitalize" the
+incentives provided by a theoretically ideal carbon emissions tax by apply-
+ing the incentives direcdy to investments in the noncarbon technologies. To
+accomplish the intended effect, the incentives would also need to be made
+applicable at the time of investment. In this way, if policies were later
+reversed-say, because of new evidence on the greenhouse effect-the
+investments already made would at least continue to operate profitably,
+while plans for new investments would be scaled back without loss. Another
+advantage of this approach is that the user charge, over the next ten years
+or so, would be small, as the financial requirements for research, develop-
+ment, and demonstration of the tecnologies would necessarily be small in
+relation to the size of the industry. For instance, a user charge amounting to
+less than one-twentieth of the-tax of S100 per ton of carbon recendy pro-
+posed (and then shelved) in Europe would support a substantive program of
+investment.
+Anderson                                                         393
+
+
+
+Turning to the concluding paragraph of Nordhaus's paper, I believe the above
+policies could indeed be weighed in good conscience by the economist, in the full
+knowledge that they would be likely to help-not hinder-development.
+References
+Ahmed, Kulsum. 1994. Renewable Energy Tcchnfologies: A Review of the Status and Costs of Selected
+Technologies. World Bank Technical Paper 240. Energy Series. Washington, D.C.
+Arrow, Kenneth J. 1962, "The Economic Implications of Learning by Doing." Review of Economic
+Studies 29 (June): lS5-73.
+394                                                                           Comment
+
+
+
+p~~~~~~~~~~~~~~~~~~~~~~~~~~
+FLOOR DISCUSSION OF THE NORDHAUS PAPER
+participant said that he had found Nordhaus's results pessimistic and his
+A    assumptions about costs high. In particular, he said, Nordhaus had
+ignored the probability of technological changes that would be far less
+expensive than the costs he was projecting. Lee Schipper also expressed skepti-
+cism about the optimal strategy Nordhaus had proposed and said he doubted
+that it would be possible to stabilize carbon emissions. We have a peculiar way
+in the United States of pushing costs off to whoever is not voting this year, he
+said. He wondered if a somewhat higher carbon tax would not be a good idea
+precisely because it would send a real price signal. We do not have a way of
+measuring how people respond, historically, to a permanent long-term change
+in energy prices; we know only what happens during the glitches. Schipper
+agreed that what Nordhaus had done was profound but said that somehow it
+had irritated many people who might otherwise be supportive, either because it
+was not said correctly or because it did not look correct. Nordhaus wouldn't
+have to move his position very far to have an excellent compromise, said Schip-
+per. Would Nordhaus consider widening this policy hole and putting bigger bars
+on it, to still the critics on both the inaction and the overaction side?
+Nordhaus responded first to comments about whether his results were opti-
+mistic or pessirnistic. He had looked at two general sets of studies, he
+explained-economic models and studies that followed an engineering or tech-
+nological approach. The economic modeling studies are based on equilibrium
+(supply and demand) approaches, such as that of Jorgenson (discussant). As a
+consumer of other studies, Nordhaus had tried to locate his economic modeling
+results in the middle of the pack. His results were actually somewhat optimistic;
+Jorgenson's were the most optimistic of all in the sense of projecting the lowest
+costs for reaching a particular emission reduction program. The engineering
+studies are much more optimistic in that they say that 20 to 40 percent of energy
+The session was chaired by Mohamed El-Ashry, chief environmental adviser to the president of the World
+Bank and director of the World Bank's Environment Department.
+Proceedings of the World Bank Annual Conference on Dewuopment Economics 1993
+iD 1994 The International Bank for Reconstructon and Development I THE VORU BANK  395
+
+
+
+consumption and emissions can be reduced to zero-or even negAtive-costs.
+Obviously, for the first 30 or 40 percent of emissions reductions, the engineering
+studies will give you lower costs. But almpsc ill the economic models have trends
+that mighit be called exogenous reductions in energy use per unit of output, and
+the two basically offset each other over A twenty- or thirty-year period.
+However, Nordhaus emphasized, if his results were pessimistic and we should
+be more optimistic, then we should have a lower carbon tax, not a higher one. If
+we are going to be dotting the countryside with solar thermal plants-which is
+not in thc model now-we will not need as much of an economic incentive as a
+pessimistic model would imply.
+Nordhaus pleaded guilty to the criticism that he had ignored innovation and
+technology. He simply had not found a comfortable way to include endogenous
+technological change, so he had assumed exogenous technological change. The
+Jorgenson model is the only one in existence that includes endogenous techno-
+logical change, he said, and it produces different results. Ccrtainly, if you
+include endogenous technological change, the optimal carbon tax should be
+raised because a higher tax would induce technological research and develop-
+ment. This is a difficult issue, he said, and no doubt we are making mistakes
+because the technology will be very different in the middle of the twenty-first
+century. If cold fusion is around and is too cheap to meter, we won't need to
+discuss this subject at all.
+As for irritating people, Nordhaus said his role was to be an analytical econo-
+mist. He would leave to others the diplomatic issues, negotiations, and compro-
+mises because once you start compromising, you lose track of where you began
+and of the analytical principles and start down a slippery slope. He did not want
+to be offensive, but in the end he felt that the role of economists, engineers, and
+other analysts was to present their analyses as honestly and well as they could
+and let the numbers fall where they may.
+A participant from Argentina said Nordhaus claimed that chlorofluorocar-
+bons (cFcs) increase greenhouse gases, but studies by the United Nations Envi-
+ronment Programme and the Intergovernmental Panel on Climate Change (ipcc)
+show the net effect of cFc emissions to be nil in relation to greenhouse gases.
+That must affect global models, and, to the extent that the policy of the Bush
+administration was simply to control cFcs, U.S. policy would have done little to
+limit greenhouse gases. More important is the issue of how industrial and devel-
+oping countries will bear, share, or distribute the cost of diffierent policy alterna-
+tives. Northern economists are more likely to favor a tax on energy consump-
+tion, which would be the most costly alternative for developing countries. If
+there is to be no transfer of payment from northern to southern countries,
+southern countries are likely to oppose taxes on energy consumption.
+396                                                      Floor Discussion
+
+
+

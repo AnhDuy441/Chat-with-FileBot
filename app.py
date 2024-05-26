@@ -4,10 +4,11 @@ import fitz
 import docx
 import os
 import json
+import requests
 
 app = Flask(__name__)
-
 qa_model = None
+file_name = ""
 context = ""
 chat_history = []
 conversations_dir = 'conversations'  # Directory to save conversations
@@ -30,6 +31,13 @@ def read_txt(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         text = file.read()
     return text
+
+def get_file_name(string: str):
+    global file_name
+    file_name = string.replace(".pdf", " ", len(string))
+    file_name = string.replace(".docx", " ", len(string))
+    file_name = string.replace(".txt", " ", len(string))
+    print("Title:", file_name)
 
 def process_text(text):
     lines = text.split('\n')
@@ -68,12 +76,30 @@ def load_conversations():
             if os.path.isdir(conversation_path):
                 with open(os.path.join(conversation_path, 'filename.txt'), 'r', encoding='utf-8') as f:
                     filename = f.read().strip()
+                    get_file_name(filename)
                 with open(os.path.join(conversation_path, 'chat_history.json'), 'r', encoding='utf-8') as f:
                     chat_history = json.load(f)
                 with open(os.path.join(conversation_path, 'context.txt'), 'r', encoding='utf-8') as f:
                     context = f.read().strip()
                 conversations.append((conversation_id, filename, chat_history, context))
     return conversations
+
+def extract_featured_snippet(search_results):
+    for item in search_results.get("items", []):
+        if "snippet" in item:
+            return item["snippet"]
+    return None
+
+def scrape_google(query: str, api_key="AIzaSyCSdE0-JoOBcrZw_4-jmQRlM3BsrFNFR6U", cx="3495be5e74dc54933"):
+    search_url = f"https://www.googleapis.com/customsearch/v1?q={query.replace(' ', '%20')}&key={api_key}&cx={cx}"
+    print("URL link: ", search_url)
+    headers = {
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36'
+    }
+    response = requests.get(search_url, headers=headers)
+    search_results = response.json()
+    featured_snippet = extract_featured_snippet(search_results)
+    return featured_snippet
 
 @app.route("/", methods=["GET", "POST"])
 def index():
@@ -92,6 +118,8 @@ def index():
                 text = read_txt(file_path)
             else:
                 return "Unsupported file type"
+            
+            get_file_name(file.filename)
             qa_model, context = create_qa_model(text)
             conversation_id = str(len(previous_conversations))
             previous_conversations.append((conversation_id, file.filename, chat_history, context))  # Save the filename and conversation before resetting
@@ -104,7 +132,7 @@ def index():
 
 @app.route("/chat", methods=["GET", "POST"])
 def chat():
-    global qa_model, context, chat_history, previous_conversations
+    global qa_model, context, chat_history, previous_conversations, file_name
     conversation_id = request.args.get("conversation_id")
     if conversation_id:
         conversation = next((conv for conv in previous_conversations if conv[0] == conversation_id), None)
@@ -115,9 +143,17 @@ def chat():
         user_question = request.form["message"]
         response = qa_model(question=user_question, context=context)
         answer = response['answer']
+        
+        featured_snippet = scrape_google(user_question + " in " + file_name)
+        
+        if featured_snippet:
+            combined_response = f"{answer}" + "\n" + f"Additionally, here is a featured snippet from Google:\t{featured_snippet}"
+        else:
+            combined_response = f"{answer}"
+        
         chat_history.append({
             "user_input": user_question,
-            "bot_response": answer
+            "bot_response": combined_response
         })
         save_conversation(conversation_id, conversation[1], chat_history, context)
         return render_template("chat.html", chat_history=chat_history, context=context, previous_conversations=previous_conversations, enumerate=enumerate)
